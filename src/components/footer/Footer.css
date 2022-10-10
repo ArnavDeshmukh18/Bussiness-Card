@@ -1,0 +1,23 @@
+footer{
+    left: 116px;
+    top:760px ;
+    background-color:  #161619;
+    height: 100px;
+    margin: auto;
+    border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+
+
+}
+
+
+.icon{
+    
+
+    display: flex;
+    justify-content: center;
+    
+    padding-top: 45px;
+    color:#918E9B;
+  
+}
